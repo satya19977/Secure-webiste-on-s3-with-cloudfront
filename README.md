@@ -1,6 +1,6 @@
 # Overview
 
-Users can securely access my website www.myprojectssatya.click to see a simple react application in action. They do so by going through any browser, which goes to Route53 which directs them to an edge location where a SSL/TLS certificate  is attached and the origin is the s3 bucket.
+Users can securely access my website  myprojectssatya.click to see a simple react application in action. They do so by going through any browser, which goes to Route53 which directs them to an edge location where a SSL/TLS certificate  is attached and the origin is the s3 bucket.
 
 #### Architecture Diagram
 
